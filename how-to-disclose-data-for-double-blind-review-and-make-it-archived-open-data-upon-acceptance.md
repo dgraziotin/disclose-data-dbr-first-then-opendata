@@ -6,7 +6,7 @@ original-link: https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-r
 
 # How to disclose data for double-blind review and make it archived open data upon acceptance
 
-> Daniel Graziotin. (2024). dgraziotin/disclose-data-dbr-first-then-opendata: v0.0.1 (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.10532048
+> Daniel Graziotin. (2024). dgraziotin/disclose-data-dbr-first-then-opendata Zenodo. https://zenodo.org/doi/10.5281/zenodo.10532047
 
 Openness in science is key to fostering progress via transparency, reproducibility and replicability. While open access and open data are two fundamental pillars in open science, it is open data that builds the core for excellence in evidence-based research. This is why I have striven for years to bring open science practices, including open access and open data, to software engineering research.
 
